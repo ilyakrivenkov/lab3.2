@@ -1,0 +1,33 @@
+﻿Построение начато 23.10.2022 12:23:13.
+     1>Проект "c:\Users\79374\documents\visual studio 2010\Projects\lab3.11\lab3.11\lab3.11.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab3.11.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab3.11.cpp
+         lab3.11.cpp
+     1>c:\users\79374\documents\visual studio 2010\projects\lab3.11\lab3.11\lab3.11.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\2010\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\79374\documents\visual studio 2010\projects\lab3.11\lab3.11\lab3.11.cpp(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\2010\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\79374\documents\visual studio 2010\projects\lab3.11\lab3.11\lab3.11.cpp(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\2010\vc\include\stdio.h(304): см. объявление "scanf"
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\79374\documents\visual studio 2010\Projects\lab3.11\Debug\lab3.11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab3.11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\79374\documents\visual studio 2010\Projects\lab3.11\Debug\lab3.11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\79374\documents\visual studio 2010\Projects\lab3.11\Debug\lab3.11.lib" /MACHINE:X86 Debug\lab3.11.exe.embed.manifest.res
+         Debug\lab3.11.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\lab3.11.exe.embed.manifest" /manifest Debug\lab3.11.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         lab3.11.vcxproj -> c:\users\79374\documents\visual studio 2010\Projects\lab3.11\Debug\lab3.11.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab3.11.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab3.11.lastbuildstate".
+     1>Построение проекта "c:\Users\79374\documents\visual studio 2010\Projects\lab3.11\lab3.11\lab3.11.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.99
